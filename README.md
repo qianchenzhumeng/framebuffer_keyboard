@@ -1,4 +1,4 @@
-onscreenkeyboard
+framebuffer_keyboard
 ================
 
 
